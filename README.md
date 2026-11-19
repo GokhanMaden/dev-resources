@@ -50,6 +50,7 @@ Katkıya açık. Eklemek istediğin bir şey varsa PR gönderebilirsin! 🙌
 - **[Impeccable](https://github.com/pbakaus/impeccable)** → Agent'a ortak bir tasarım dili veriyor (`critique`, `audit`, `polish`, `bolder` gibi komutlar). "AI yapımı gibi duran" jenerik tasarım kalıplarını da yakalıyor.
 - **[UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)** → Stil, renk paleti, font eşleşmeleri ve UX kurallarından oluşan aranabilir veritabanı. Ürününe göre design system öneriyor.
 - **[Modern Web Guidance](https://github.com/GoogleChrome/modern-web-guidance-src)** → Google Chrome ekibinden. Agent'ları eskimiş kalıplardan uzaklaştırıp modern tarayıcı API'lerine ve güncel best practice'lere yönlendiren skill'ler.
+- **[Frontend Check List]([https://github.com/GoogleChrome/modern-web-guidance-src](https://github.com/thedaviddias/Front-End-Checklist))** → Front-End Checklist is the open-source front-end quality system for humans and AI agents. It turns front-end best practices into a practical review workflow you can browse on the web, run through with MCP-compatible tools, or work through directly in this README.
 
 ## ✍️ Yazı, Pazarlama ve Görsel
 
@@ -165,6 +166,7 @@ Konuya hakimsen ilgili seviyeyi atlayabilirsin.
 ## 🧪 Denenecekler
 
 - **[AI Job Search](https://github.com/ai-job-search-dev/ai-job-search)** → Claude Code'u iş başvuru asistanına çeviriyor: ilanları tarama ve değerlendirme, ilana özel CV ve ön yazı, mülakat hazırlığı, başvuru takibi. Tamamen yerelde çalışıyor.
+- **[Mastra]([https://github.com/ai-job-search-dev/ai-job-search](https://github.com/mastra-ai/mastra))** → Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 
 ## 🏕️ Boş Zamanda Bak
 
